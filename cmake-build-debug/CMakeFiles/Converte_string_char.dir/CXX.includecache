@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/djalmacunha/Desktop/mata_tempo/Converte_string_char/StringChar.cpp
+StringChar.hpp
+/Users/djalmacunha/Desktop/mata_tempo/Converte_string_char/StringChar.hpp
+
+/Users/djalmacunha/Desktop/mata_tempo/Converte_string_char/StringChar.hpp
+iostream
+-
+
+/Users/djalmacunha/Desktop/mata_tempo/Converte_string_char/main.cpp
+StringChar.hpp
+/Users/djalmacunha/Desktop/mata_tempo/Converte_string_char/StringChar.hpp
+
